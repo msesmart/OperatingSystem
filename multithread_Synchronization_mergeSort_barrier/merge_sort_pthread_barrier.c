@@ -1,7 +1,8 @@
 /*****************************************/
-/* using multi thread to validate sudoku */
+/* pthread barrier for synchronization   */
+/* merge sort using multi thread         */
 /* Author: Chengjun Yuan @UVa            */
-/* Time:   Sept.26.2015                  */
+/* Time:   Oct.15.2015                   */
 /*****************************************/
 #define _XOPEN_SOURCE 600
 
