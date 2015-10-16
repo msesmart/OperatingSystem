@@ -1,7 +1,10 @@
 /*****************************************/
-/* using multi thread to validate sudoku */
+// using mutex and conditional variable to
+// synchronize the multi-threads in paralleling
+// the merge sort. The array to be sorted can
+// be generated through "generateRandomNumbers"
+// or can be read through "readArray("indata.txt")".
 /* Author: Chengjun Yuan @UVa            */
-/* Time:   Sept.26.2015                  */
 /*****************************************/
 #define _XOPEN_SOURCE 600
 
